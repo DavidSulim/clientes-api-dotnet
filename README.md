@@ -1,5 +1,7 @@
 # CRUD de Clientes — Vue 3 + Vuex + Vue Router + Vuetify
 
+![image alt](https://github.com/DavidSulim/clientes-api-dotnet/blob/05bbd5fc7619e10c54571cb62fae47d4913b53d0/img01.png)
+
 # CRUD de Clientes — Vue 3 + Vuex + Vue Router + Vuetify
 
 ## Requisitos
