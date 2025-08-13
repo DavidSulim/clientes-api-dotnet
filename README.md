@@ -1,7 +1,5 @@
 # CRUD de Clientes — Vue 3 + Vuex + Vue Router + Vuetify
 
-[![Build](https://github.com/USERNAME/vue-clientes-crud/actions/workflows/ci.yml/badge.svg)](https://github.com/USERNAME/vue-clientes-crud/actions)
-
 # CRUD de Clientes — Vue 3 + Vuex + Vue Router + Vuetify
 
 ## Requisitos
